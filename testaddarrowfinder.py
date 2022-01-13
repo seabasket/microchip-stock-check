@@ -2,7 +2,8 @@
 Edited by Sebastian Rowe. 
 
  * Added Arrow, Avnet Americas, Newark, Future Electronics support.
- * Adds menu  that allows for searching through different MPN search sets.
+ * Added menu  that allows for searching through different MPN search sets.
+ * Added ctrl-c instant quit
  
 """
 
