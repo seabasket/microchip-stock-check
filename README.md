@@ -11,3 +11,8 @@ This tool upon my retrieval only queried microchip, digikey, and mouser.
  * Added menu that allows for searching through different MPN search sets.
  * Added ctrl-c instant quit
  * Added filtered search. (reduce a massive list by only searching for specific packages and parts)
+
+# Notes 
+* The 'MPN' files are excel spreadsheets that contain part numbers to be searched for. They can be manually lengthened or shortened in excel itself, or can be shortened in program by the filtered search tool. 
+
+* Search sets MUST start with 'MPN' and end in '.xlsx'. You can change the start value by changing the 'startswith' variable. 
