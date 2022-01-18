@@ -10,4 +10,4 @@ This tool upon my retrieval only queried microchip, digikey, and mouser.
  * Added Future Electronics support
  * Added menu that allows for searching through different MPN search sets.
  * Added ctrl-c instant quit
-
+ * Added advanced search. (reduce a massive list by only searching for specific packages and parts)
