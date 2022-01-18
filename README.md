@@ -3,7 +3,7 @@ A python script that queries and returns the part availability for a given list 
 
 This tool upon my retrieval only queried microchip, digikey, and mouser. 
 
- My updates:
+# My updates
  * Added Arrow support 
  * Added Avnet Americas support 
  * Added Newark support 
