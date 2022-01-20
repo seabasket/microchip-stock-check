@@ -8,7 +8,7 @@ This tool upon my retrieval queried only microchip, digikey, and mouser.
  * Added Avnet Americas support 
  * Added Newark support 
  * Added Future Electronics support
- * Added menu that allows for searching through different MPN search sets
+ * Added menu that allows for searching through different search sets
  * Added ctrl-c (Keyboard Interrupt) instant quit
  * Added filtered search. (reduce a massive list by only searching for specific packages and parts)
 
