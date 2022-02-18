@@ -1,4 +1,7 @@
 """
+
+AT THE REQUEST OF MICROCHIP TECHNOLOGIES THIS CODE HAS BEEN REMOVED FROM THE GITHUB
+
 Edited by Sebastian Rowe. 
 
     * Added Arrow support
